@@ -1,0 +1,28 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\bin\Debug\The_Best_Abacus.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\bin\Debug\The_Best_Abacus.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Login.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Forget_pass.resources
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.exe
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.pdb
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\bin\Debug\The_Best_Abacus.exe
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\bin\Debug\The_Best_Abacus.pdb
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Forget_pass.resources
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Login.resources
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Properties.Resources.resources
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.csproj.GenerateResource.Cache
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.change_pass.resources
+C:\Users\ADITYA RAMESH NIKAM\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.csprojResolveAssemblyReference.cache
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.exe
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.pdb
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\bin\Debug\The_Best_Abacus.exe
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\bin\Debug\The_Best_Abacus.pdb
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.csprojResolveAssemblyReference.cache
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.change_pass.resources
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Forget_pass.resources
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Login.resources
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.Properties.Resources.resources
+C:\Users\ADITYA RAMESH NIKAM\OneDrive\Documents\Visual Studio 2010\Projects\The_Best_Abacus\The_Best_Abacus\obj\x86\Debug\The_Best_Abacus.csproj.GenerateResource.Cache
